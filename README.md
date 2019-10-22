@@ -8,3 +8,5 @@ Juniper auto bandwidth feature allows a traffic engineering tunnel to adjust ban
 2. configure Healthbot to build a 24 hour baseline for LSP traffic
 
 3. use the baseline model to signal the traffic engineering LSP bandwidth
+
+please refer to wifi for detailed set up instructions
